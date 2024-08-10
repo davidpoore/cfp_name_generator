@@ -61,7 +61,7 @@ body {
     cursor: pointer;
   }
 
-  button.generate:hover {
+  button.generate:hover, button.generate:focus {
     filter: brightness(150%);
   }
 }
